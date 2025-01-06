@@ -51,7 +51,7 @@ The Boston Housing Dataset contains 506 rows and 14 columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/boston-housing-prediction.git
+   git clone https://github.com/ziadsalama95/boston-housing-prediction.git
    ```
 
 2. Navigate to the project directory:
