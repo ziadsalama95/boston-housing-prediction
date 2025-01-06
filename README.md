@@ -85,6 +85,7 @@ The Boston Housing Dataset contains 506 rows and 14 columns:
 .
 ├── Boston_Housing_Prediction.ipynb  # Main analysis and implementation notebook
 ├── README.md                        # Project documentation
+├── requirements.txt                 # List of dependencies
 └── housing.csv                      # Dataset
 ```
 
